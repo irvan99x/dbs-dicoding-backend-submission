@@ -14,8 +14,8 @@ Learning Path **Back-End Developer** ini didapatkan dari program beasiswa [DBS F
 
 ## Submission
 
-- [Belajar Machine Learning untuk Pemula →](https://github.com/mrbvrz/dicoding-machine-learning-developer/tree/master/belajar-machine-learning-untuk-pemula/)
-- [Belajar Pengembangan Machine Learning →](https://github.com/mrbvrz/dicoding-machine-learning-developer/blob/master/belajar-pengembangan-machine-learning/)
+- [Open Music API →](https://github.com/irvan99x/dicoding-backend-developer/tree/master/open-music-api)
+- [Open Music API Consumer →](https://github.com/irvan99x/dicoding-backend-developer/tree/master/open-music-queue-consumer)
 
 ## Result
 
@@ -29,4 +29,4 @@ Learning Path **Back-End Developer** ini didapatkan dari program beasiswa [DBS F
 
 ## Thanks :pray:
 
-Terima kasih untuk [IDCamp Indosat Ooredoo 2020](https://www.dbs.com/spark/index/id_id/site/codingcamp/index.html) dan [Dicoding](https://www.dicoding.com/).
+Terima kasih untuk [DBS Foundation Coding Camp](https://www.dbs.com/spark/index/id_id/site/codingcamp/index.html) dan [Dicoding](https://www.dicoding.com/).
