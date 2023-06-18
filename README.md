@@ -3,7 +3,7 @@
 Kurikulum lengkap yang disusun oleh Dicoding dan DBS Foundation Coding Camp. Peserta dipersiapkan untuk menjadi Back-End Developer sesuai standar kebutuhan industri. 
 
 Learning Path **Back-End Developer** ini didapatkan dari program beasiswa [DBS Foundation Coding Camp](https://www.dbs.com/spark/index/id_id/site/codingcamp/index.html).
-.
+
 ## Learning Path
 
 - [x] [Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)](https://www.dicoding.com/academies/251), Pelajari materi dasar Cloud dengan menggunakan AWS, dari konsep cloud computing, hingga cara membangun arsitektur yang baik.
