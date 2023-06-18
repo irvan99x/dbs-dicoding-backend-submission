@@ -1,4 +1,4 @@
-# Belajar Machine Learning untuk Pemula
+# Belajar Fundamental Aplikasi Back-End
 
 Kelas ini ditujukan untuk Back-End Developer yang ingin mengetahui cara mengelola dan mengamankan dengan baik di server, dengan mengacu pada
 standar industri yang divalidasi AWS. Di akhir kelas, siswa dapat membuat aplikasi back-end berupa RESTful API yang menerapkan Database, Authentication
