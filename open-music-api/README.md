@@ -15,3 +15,16 @@ diharapkan.
 - **Storage dengan Amazon S3** : Membuat storage secara lokal menggunakan core modules fs dan memanfaatkan teknologi cloud dengan menggunakan Amazon S3.
 - **Caching menggunakan Amazon ElastiCache** : Menggunakan teknologi memory caching untuk memberikan respons yang cepat dalam menampilkan resource. Modul ini menggunakan Redis sebagai memory caching secara lokal maupun production (menggunakan Amazon ElastiCache).
 - **Submission:** : Proyek akhir membuat RESTful API dengan menerapkan teknologi database, storage message broker, dan caching, serta memiliki fitur authentication dan authorization.
+  ## Environment Variables
+Untuk menjalankan project ini, anda harus menambahkan beberapa environment variables didalam file .env.
+
+`PGUSER`
+`PGHOST`
+`PGPASSWORD`
+`PGDATABASE`
+`PGPORT`
+`ACCESS_TOKEN_KEY`
+`REFRESH_TOKEN_KEY`
+`ACCESS_TOKEN_AGE`
+`RABBITMQ_SERVER`
+`REDIS_SERVER`
