@@ -1,4 +1,4 @@
-# Dicoding Back-End Developer
+# DBS Foundation Coding Camp 2023
 
 Kurikulum lengkap yang disusun oleh Dicoding dan DBS Foundation Coding Camp. Peserta dipersiapkan untuk menjadi Back-End Developer sesuai standar kebutuhan industri. 
 
