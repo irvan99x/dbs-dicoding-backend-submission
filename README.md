@@ -19,17 +19,20 @@ Learning Path **Back-End Developer** ini didapatkan dari program beasiswa [DBS F
 - [Open Music API →](https://github.com/irvan99x/dicoding-backend-developer/tree/master/open-music-api)
 - [Open Music API Consumer →](https://github.com/irvan99x/dicoding-backend-developer/tree/master/open-music-queue-consumer)
 
-## Result
+## Certifications
 
-| No.  | Course                                  |  Issued | Cert link |
+| No.  | Title                                  |  Issued | Cert link |
 |:----:|---|:-:|:-:|
 |  1   |  Cloud Practitioner Essentials (Belajar Dasar AWS Cloud)   | 24-05-2023 | [→](https://www.dicoding.com/certificates/ERZRGWR7QPYV) |
 |  2   |  Belajar Dasar Pemrograman JavaScript                      | 25-05-2023 | [→](https://www.dicoding.com/certificates/N9ZO6OGR8XG5) |
 |  3   |  Belajar Membuat Aplikasi Back-End untuk Pemula            | 29-05-2023 | [→](https://www.dicoding.com/certificates/EYX46VDOOPDL) |
 |  4   |  Architecting on AWS (Membangun Arsitektur Cloud di AWS)   | 10-06-2023 | [→](https://www.dicoding.com/certificates/EYX46GKQRPDL) |
 |  5   |  Belajar Fundamental Aplikasi Back-End                     | 17-06-2023 | [→](https://www.dicoding.com/certificates/L4PQG2RG2ZO1) |
-|  5   |  DBS Foundation Coding Camp 2023 (Intermediate)            | 01-08-2023 | [→](https://drive.google.com/file/d/1xz6ZVA4OzwfqwOn6Yd19neKyHrv67_CH/view?usp=sharing) |
 |  6   |  Menjadi Back-End Developer Expert                         | 30-09-2023 | [→](https://www.dicoding.com/certificates/1OP814628ZQK) |
+
+| No.  | Title                                  |  Issued | Cert link |
+|:----:|---|:-:|:-:|
+|  1   |  DBS Foundation Coding Camp 2023 (Intermediate)            | 01-08-2023 | [→](https://drive.google.com/file/d/1xz6ZVA4OzwfqwOn6Yd19neKyHrv67_CH/view?usp=sharing) |
 
 ## Thanks :pray:
 
