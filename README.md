@@ -18,6 +18,7 @@ Learning Path **Back-End Developer** ini didapatkan dari program beasiswa [DBS F
 
 - [Open Music API →](https://github.com/irvan99x/dicoding-backend-developer/tree/master/open-music-api)
 - [Open Music API Consumer →](https://github.com/irvan99x/dicoding-backend-developer/tree/master/open-music-queue-consumer)
+- [Forum API →](https://github.com/irvan99x/forum-api)
 
 ## Certifications
 
