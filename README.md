@@ -34,6 +34,7 @@ Learning Path **Back-End Developer** ini didapatkan dari program beasiswa [DBS F
 | No.  | Title                                  |  Issued | Cert link |
 |:----:|---|:-:|:-:|
 |  1   |  DBS Foundation Coding Camp 2023 (Intermediate)            | 01-08-2023 | [→](https://drive.google.com/file/d/1xz6ZVA4OzwfqwOn6Yd19neKyHrv67_CH/view?usp=sharing) |
+|  2   |  DBS Foundation Coding Camp 2023 (Expert)            | 22-11-2023 | [→](https://drive.google.com/file/d/18-tcn-AIESFo2A68DPoQGjA99AGjtupA/view?usp=sharing) |
 
 ## Thanks :pray:
 
